@@ -57,6 +57,8 @@ statement
 if else
 ![image](https://github.com/Zarruu/AssMNizarA/assets/142983519/a43e181a-2862-4324-8494-f9079fedf7a8)
 
+# LINK CI/CD
+https://zarruu.github.io/AssMNizarA/
 
 
 
